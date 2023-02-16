@@ -61,3 +61,13 @@ main{
     padding: 7px;
     margin: 5px;    
 }
+
+.connect p{
+    margin-top: 10px;
+    font-size: 25px;    
+}
+
+.connect a{
+    margin-top: 20px;
+    padding: 10px;
+}
